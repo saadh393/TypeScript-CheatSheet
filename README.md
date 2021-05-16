@@ -3,14 +3,15 @@
 # TypeScript Cheatsheet
 
 # Table of Contents
+=====================
 
-- [Basic] (#basic)
-- [Any Types] (#anytype)
-- [Function Type] (#functionType)
-- [Type Aliases] (#typeAliases)
-- [Function Signature] (#functionSignature)
-- [Class] (#class)
-- [Interfaces] (#interfaces)
-- [Generics Type] (#generics)
-- [Enum] (#enum)
-- [Tuples] (#tuples)
+* [Basic] (#basic)
+* [Any Types] (#anytype)
+* [Function Type] (#functionType)
+* [Type Aliases] (#typeAliases)
+* [Function Signature] (#functionSignature)
+* [Class] (#class)
+* [Interfaces] (#interfaces)
+* [Generics Type] (#generics)
+* [Enum] (#enum)
+* [Tuples] (#tuples)
